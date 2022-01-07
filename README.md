@@ -1,5 +1,5 @@
 <head>
-<h1>Hi, I’m @jheru11 </h1> <br>
+<h1>Hi, I’m Juan Pablo Cervantes </h1> <br>
 </head>
 <body>
 <h3> I’m interested in computation, arts, technology, education and culture. <br>
